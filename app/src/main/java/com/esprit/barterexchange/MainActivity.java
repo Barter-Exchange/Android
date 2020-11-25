@@ -1,14 +1,17 @@
 package com.esprit.barterexchange;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -37,4 +40,7 @@ public class MainActivity extends AppCompatActivity {
         btnLay.setAnimation(animBottom);
 
     }
+
+
+
 }
