@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">BarterExchange</string>
+    <string name="name">Name</string>
+    <string name="description">description</string>
+    <string-array name="users">
+        <item>ahmed</item>
+        <item>ghassen</item>
+        <item>salim</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+    </string-array>
 </resources>
